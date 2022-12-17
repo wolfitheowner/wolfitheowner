@@ -1,8 +1,8 @@
 <h1>Hi, I'm Wolfi! 👋</h1><br>
 ⚡ FrontEnd Developer<br>
-💼 @SiusiakDevelopers<br>
+💼 <a style="text-decoration:none;" href="https://github.com/siusiakdevelopers">@SiusiakDevelopers</a><br>
 <br>
 <b>My Projects</b> 😸<br>
-• fanthplay.pl <br>
+• <a style="text-decoration:none;" href="https://fanthplay.pl">fanthplay.pl</a> <br>
 <br>
 Programming is my passion ❤️<br>
