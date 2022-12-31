@@ -1,5 +1,5 @@
 <h1>Hi, I'm Wolfi! 👋</h1><br>
-⚡ FrontEnd Developer<br>
+⚡ Front-End Developer<br>
 💼 <a style="text-decoration:none;" href="https://github.com/siusiakdevelopers">@SiusiakDevelopers</a><br>
 <br>
 <b>My Projects</b> 😸<br>
